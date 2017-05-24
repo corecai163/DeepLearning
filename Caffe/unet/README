@@ -1,0 +1,5 @@
+First: For Unet Console Application, Please run train_Unet.sh.
+Before runing change caffe path in train_Unet.sh to your own path and prepare data file(HDF5)
+
+Second: For Unet Python Interface, I have defined Unet in MyUnet.py.
+Prepare data set use hdf5.py and change python caffe path before running.
